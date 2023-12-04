@@ -8,7 +8,7 @@ print("""
       
 (s) Sacar
 (d) Depositar
-(e) Extrato)
+(e) Extrato
 (x) Sair
       """)
 
